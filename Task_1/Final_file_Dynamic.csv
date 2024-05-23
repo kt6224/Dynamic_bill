@@ -1,0 +1,6 @@
+Plan_id,PlanName,Usage_,BillValue,Dynamic_bill_value
+1,PlanA,33000,6300,6300
+2,PlanB,33000,7450,7450
+3,PlanC,33000,5950,5950
+4,PlanD,33000,8250,8250
+5,PlanE,33000,7850,7850
